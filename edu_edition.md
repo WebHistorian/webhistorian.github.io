@@ -1,6 +1,6 @@
-## Educational Edition
+## Education Edition
 
-The educational edition of the Web Historian extension is designed to help anyone who is interested 
+The education edition of the Web Historian extension is designed to help anyone who is interested 
 in understanding their browsing history to explore it through interactive visualizations. 
 Often, educators (from middle school through graduate school) are interested in helping students 
 better understand the digital traces they leave behind. Below is an example of a class activity
