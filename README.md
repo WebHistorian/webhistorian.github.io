@@ -1,12 +1,11 @@
-Web Historian is a browser extension that helps you visualize the web browsing history that is already on your computer in a way you’ve never seen before. You can see what you’ve been looking for online and how you navigate through the web using interactive visuals.
 
-Many companies collect and analyze web browsing history for marketing and advertising purposes, but browsing history data has been less accessible to those who want to analyze their own web browsing behavior, and to researchers who study the social impact of the web. That is why Web Historian was created.
+![spider webs](./_includes/star-yellow-256.png)
+
+Web Historian is a browser extension that helps you visualize the web browsing history that is already on your computer in a way you’ve never seen before. You can see what you’ve been looking for online and how you navigate through the web using interactive visuals.
 
 Web Historian is an open source project developed specifically to provide users with as much transparency and control over their own information as possible. When users install Web Historian they download a program that runs only on their computer using clientside JavaScript. Users can remove anything they want from their browsing history with a simple right-click.
 
-[Link to About page](./about.html)
-
-[Link to Research Edition page](./research_edition.html)
+[About Us](./about.html)
 
 ### Citing Web Historian
 
