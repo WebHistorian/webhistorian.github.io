@@ -1,10 +1,12 @@
-## Privacy Policy - Web Historian Educational Edition Browser Extension
+## Browser Extension Privacy Policy - Web Historian Educational Edition 
 
 ### Introduction
 
 The Web Historian team is committed to protecting the privacy of our extension users. We have established this Privacy Policy to explain what information we collect through our browser extension and how it is used.
 
-The Web Historian browser extension was developed as part of an academic research project and is not the product of any for-profit company. It has been released under the GPLv2 open source license and the source code is available here: https://github.com/erickaakcire/webhistorian
+The Web Historian browser extension was developed as part of an academic research project and is not 
+the product of any for-profit company. It has been released under the GPLv2 open source license 
+and the source code is available here: [https://github.com/erickaakcire/webhistorian](https://github.com/erickaakcire/webhistorian)
 
 ### What Data is Collected
 
