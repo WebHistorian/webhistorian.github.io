@@ -1,5 +1,5 @@
 
-![spider webs](./_includes/star-yellow-256.png)
+![star](./_includes/star-yellow-64.png)
 
 Web Historian is a browser extension that helps you visualize the web browsing history that is already on your computer in a way you’ve never seen before. You can see what you’ve been looking for online and how you navigate through the web using interactive visuals.
 
