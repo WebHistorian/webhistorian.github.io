@@ -3,8 +3,8 @@
 [Code on Github](https://github.com/WebHistorian/community)
 
 This edition is for researchers looking to implement a customized version of the 
-Web Historian extension for their project. The interface is a step-by-step informed 
-consent process, rather than the more exploratory approach in the Education 
+Web Historian extension for their project. The interface is a [step-by-step informed 
+consent process](https://journals-sagepub-com.proxyau.wrlc.org/doi/suppl/10.1177/14614448211033300), rather than the more exploratory approach in the Education 
 Edition. This version requires the researchers to set up a server to receive 
 the data donation to make it as easy as possible for participants to contribute. 
 If you need help setting this up for your project, please 
