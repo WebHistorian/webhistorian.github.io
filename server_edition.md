@@ -1,12 +1,24 @@
 ## Server Edition
 
-This edition is for researchers looking to implement a customized version of the Web Historian extension. The interface is a step-by-step informed consent process, rather than the more exploratory approach in the Education Edition. This version requires the researchers to set up a server to receive the data donation. If you need help setting this up for your project, please contact EMT LLC. 
+[Code on Github](https://github.com/WebHistorian/community)
 
-Not all research requires the server edition. If you do not need to collect data from participants' browsers, just their reactions in an interview for example, you can use the Education Edition. If you are doing a small project with tech-savvy participants that trust you, you could ask them to review their data in the Educational Edition and send you the json file they download after they have redacted what they do not want to share.
+This edition is for researchers looking to implement a customized version of the 
+Web Historian extension for their project. The interface is a step-by-step informed 
+consent process, rather than the more exploratory approach in the Education 
+Edition. This version requires the researchers to set up a server to receive 
+the data donation to make it as easy as possible for participants to contribute. 
+If you need help setting this up for your project, please 
+contact [EMT LLC](https://erickaakcire.github.io/emtllc.html). 
 
-Here is [an example](./consent_example.html) of a consent form for a Web Historian project where the browsing data and survey data were collected.
+Not all research requires the server edition. If you do not need to collect data 
+from participants' browsers, just their responses to their visualizations in an interview for example, 
+you can use the Education Edition. If you are doing a project that does require the browsing data
+with relatively tech-savvy participants that trust you, you could ask them to review their 
+data in the Educational Edition and send you the json file they download after they have 
+redacted what they do not want to share.
 
-[Github](https://github.com/WebHistorian/community)
+Here is [an example](./consent_example.html) of a consent form for a Web Historian 
+project for a US based institution where browsing data and survey data were collected. 
 
 Please cite the Web Historian paper if you use any edition the tool in your work.
 

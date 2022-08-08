@@ -1,11 +1,13 @@
 ## Education Edition
 
+[Download from the Chrome Store](https://chrome.google.com/webstore/detail/web-historian-education-e/chpcblajbmmlbhecpnnadmjmlbhkloji)
+
 The education edition of the Web Historian extension is designed to help anyone who is interested 
 in understanding their browsing history to explore it through interactive visualizations. 
+
 Often, educators (from middle school through graduate school) are interested in helping students 
 better understand the digital traces they leave behind. Below is an example of a class activity
-that uses Web Historian. Additional data literacy lessons using the JSON Download file
-are forthcoming. 
+that uses Web Historian. Additional activities are forthcoming, or submit one you use to menchent at american dot edu. 
 
 ### Class activity example
 
