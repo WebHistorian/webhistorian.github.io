@@ -1,7 +1,6 @@
 ## Education Edition
 
-To use the Education edition, [install from the Chrome Store]
-(https://chrome.google.com/webstore/detail/web-historian-education-e/chpcblajbmmlbhecpnnadmjmlbhkloji). 
+To use the Education edition, [install from the Chrome Store](https://chrome.google.com/webstore/detail/web-historian-education-e/chpcblajbmmlbhecpnnadmjmlbhkloji). 
 The link takes you to the Chrome store installation page for the extension, and if you are using 
 Google Chrome you will be able to install it. Coming soon for other browsers and in other languages.
 
