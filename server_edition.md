@@ -20,7 +20,7 @@ redacted what they do not want to share.
 Here is [an example](./consent_example.html) of a consent form for a Web Historian 
 project for a US based institution where browsing data and survey data were collected. 
 
-Please cite the paper about Web Historian pif you use any edition the tool in your work.
+Please cite the paper about Web Historian if you use any edition the tool in your work.
 
 Menchen-Trevino, E. (2016). Web Historian: Enabling multi-method and independent research with real-world web browsing history data. *iConference*, Philadelphia. [https://doi.org/10.9776/16611](https://doi.org/10.9776/16611)
 
