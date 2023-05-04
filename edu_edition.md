@@ -11,7 +11,7 @@ that uses Web Historian. Additional activities are forthcoming, or submit one yo
 
 ### Class activity example
 
-Simple and fun activities will help students understand how Web Historian functions in a 
+This simple and fun activity will help students understand how Web Historian functions in a 
 step-by-step way. Students will learn how digital footprints are formed and how they can be 
 used. They will also understand the way data visualization can help them in developing productive 
 online habits in line with their own goals.
