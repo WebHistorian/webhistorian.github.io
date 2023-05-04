@@ -29,7 +29,7 @@ goals and what adjustments they need to make to use their online time more effec
 - What have you used a search engine on this computer to find out about recently? Has that changed over time?
 - What articles have you read on this computer that have Biden in the title? How did you get to them?
 
-2. Now, take out your laptop and find answers to the same above questions on Web Historian. Here is a video that will show you how to do this in Web Historian. Tally the findings with the answers that you wrote down.
+2. Now, take out your laptop and find answers to the same above questions on Web Historian. [Here is a video](https://youtu.be/HIYvJHWNsRw) that will show you how to do this in Web Historian. Tally the findings with the answers that you wrote down.
 
 #### Debrief discussion:
 
